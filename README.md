@@ -62,3 +62,15 @@ Em ordem de relevância, avaliaremos:
 O projeto deverá ser hospedado em um repositório no seu GitHub. O link do repositório deverá ser fornecido por meio do formulário de Teste Técnico encaminhado ao seu e-mail. Não serão aceitos links de projetos enviados por outros meios.
 
 Demais instruções e regras serão instruídas nos formulários e nas comunicações do processo seletivo do qual você está participando.
+
+
+
+Imagens do Aplicativo:
+- ![image](https://github.com/user-attachments/assets/01222de9-53dc-4d89-adca-1c8108bd728a)
+- ![image](https://github.com/user-attachments/assets/bb4cab79-d1b0-489c-a7b6-a7424281722d)
+- ![image](https://github.com/user-attachments/assets/3ca079ef-758c-4cc7-94ec-e76e2f6f6bae)
+
+
+
+
+
